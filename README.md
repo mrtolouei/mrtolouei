@@ -1,6 +1,4 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrtolouei.mrtolouei)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 I'm **Mr.Tolouei**, a Software Engineer with a specialization in web development and a strong foundation in SOLID principles and best practices. With expertise in design patterns such as Repository/Service, Facade, Factory, Strategy, Decorator, Observer and Adapter, I excel in building scalable, efficient software solutions.
 
